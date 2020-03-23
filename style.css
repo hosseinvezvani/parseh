@@ -1,0 +1,17 @@
+/**
+* Theme Name: parsehprint
+* Theme URI: https://parsehprint.com/
+* Description: قالب چاپ پارسه طراحی شضده توسط مهندس محمد حسین وزوانیان.
+* Version: 1.0.0
+* Author: محمد حسین وزوانیان
+* Author URI: http://vezvani.ir/
+* License: GNU General Public License version 3.0
+* License URI: http://www.gnu.org/licenses/gpl-3.0.html
+* Tags: خدمات چاپ، چاپ بوم، چاپ بنر ، چاپ دیجیتال ، طراحی و خدمات چاپی، چاپ افست
+* Text Domain: parsehprint
+*
+*/
+* {
+    background: antiquewhite;
+    margin: 12px;
+}
