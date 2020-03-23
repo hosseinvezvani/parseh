@@ -11,7 +11,27 @@
 * Text Domain: parsehprint
 *
 */
+@font-face {
+    font-family: 'IRANSans-web';
+    src: url('assets/fonts/IRANSans-web.eot');
+    src: url('assets/fonts/IRANSans-web.eot?#iefix') format('eot'),  /* IE6–8 */
+    url('assets/fonts/IRANSans-web.woff2') format('woff2'),  /* Chrome36+, Opera24+*/
+    url('assets/fonts/IRANSans-web.woff') format('woff'),  /* FF3.6+, IE9, Chrome6+, Saf5.1+*/
+    url('assets/fonts/IRANSans-web.ttf') format('ttf');
+    font-weight: normal;
+}
 * {
-    background: antiquewhite;
-    margin: 12px;
+    width: 100%;
+    max-width: 100%;
+    position: relative;
+    overflow-x: hidden!important;
+}
+body{
+    background: #fff;
+    direction: rtl;
+    font-family: "IRANSans-web";
+    font-size: 1rem;
+    font-weight: 300;
+    margin: 0;
+    line-height: 2;
 }
